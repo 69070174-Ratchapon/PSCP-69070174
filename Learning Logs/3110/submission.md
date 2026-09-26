@@ -21,7 +21,7 @@ OJ3110 - [LEARNING LOGS] สงคราม...ส่งด่วน
 OJ submission ID ถ้ามีการส่งแล้ว:
 
 ```text
-
+579917
 ```
 
 สถานะ OJ:
