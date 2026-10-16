@@ -21,7 +21,7 @@ OJ3360 - [LEARNING LOGS] หั่นขนมปัง
 OJ submission ID ถ้ามีการส่งแล้ว:
 
 ```text
-	677416
+677416
 ```
 
 สถานะ OJ:
